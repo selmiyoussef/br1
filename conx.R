@@ -7,4 +7,4 @@ for(con in cons) {dbDisconnect(con)}
 
 t1=Sys.time()
 
-# ceci est un teste
+# ceci est un test
