@@ -1,3 +1,19 @@
+###################################################################
+  
+ ##################SELMI YOUSSEF (2015). 
+
+
+  ######title = Association rules
+    ####author = {SELMI YOUSSEF},
+    ####year = {2015},
+    ####note = {Digital Marketing },
+  ########################################################################
+
+
+
+
+
+
 T1=Sys.time()
 
 # Chargement des librairies nécessaires
