@@ -20,3 +20,6 @@ h20 with R
 Deploying a scoring engine for predictive analytics with OpenCPU
   
   https://www.youtube.com/watch?v=FQ57YJIay7o&list=PLD5900388FFD85C2B
+  
+  
+  latex: miktec
