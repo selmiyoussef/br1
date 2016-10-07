@@ -23,3 +23,4 @@ Deploying a scoring engine for predictive analytics with OpenCPU
   
   
   latex: miktec
+visitor.tatvic.forecasting
