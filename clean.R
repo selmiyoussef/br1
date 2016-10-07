@@ -24,3 +24,4 @@ Deploying a scoring engine for predictive analytics with OpenCPU
   
   latex: miktec
 visitor.tatvic.forecasting
+  http://mlwave.com/predicting-click-through-rates-with-online-machine-learning/
